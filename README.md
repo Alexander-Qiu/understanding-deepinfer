@@ -1,5 +1,7 @@
 # 深入理解 DeepInfer
 
+由 **OpenAI Codex** 生成，先 vibe coding 占个位，内容待完善，仅供学习参考。
+
 从源码出发，理解 [DeepInfer](https://github.com/deepseek-ai/DeepInfer) 的设计与实现。
 
 计划围绕请求调度、模型执行、KV Cache、采样与并行机制展开。当前仅完成仓库初始化。
